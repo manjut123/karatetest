@@ -1,0 +1,55 @@
+20:58:15.301 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+20:58:15.690 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+20:58:18.091 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+20:58:22.524 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 3891
+20:58:23.153 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 265
+20:58:23.262 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+20:58:24.748 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1397
+20:58:24.795 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+21:08:56.387 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+21:08:56.687 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+21:08:58.096 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:09:00.787 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2162
+21:09:01.295 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 263
+21:09:01.412 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:09:02.820 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1356
+21:09:02.863 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+21:09:52.853 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+21:09:53.206 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+21:09:54.601 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:09:57.070 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2014
+21:09:57.494 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 193
+21:09:57.637 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:09:59.139 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1416
+21:09:59.182 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+21:11:05.929 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+21:11:06.237 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+21:11:07.655 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:11:15.430 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 7242
+21:11:16.265 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 627
+21:11:16.381 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+21:11:17.859 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1430
+21:11:17.900 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+22:13:05.688 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+22:13:05.950 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cusers%5cusers.feature
+22:13:07.607 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:13:10.359 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 2224
+22:13:10.714 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 130
+22:13:10.816 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:13:12.244 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1361
+22:13:12.293 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+22:14:30.508 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+22:15:32.401 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+22:15:32.691 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cpetstore.feature
+22:15:34.145 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:15:39.385 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 4823
+22:15:39.661 [main] ERROR com.intuit.karate.StepDefs - FAILED, status code was 200, expected 204
+22:27:13.148 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+22:27:13.463 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cpetstore.feature
+22:27:15.060 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:27:20.346 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 4790
+22:27:20.461 [main] ERROR com.intuit.karate.StepDefs - FAILED, status code was 200, expected 204
+22:28:29.410 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.Testrunner
+22:28:29.793 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /C:/Testauto/karatedemo/target/test-classes/examples%5cpetstore.feature
+22:28:31.645 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+22:28:36.692 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 4466
